@@ -37,6 +37,5 @@
 #print(message)
 
 #fungsi fstring
-greeting = 'Hello'
-name = 'Michael'
-
+#greeting = 'Hello'
+#name = 'Michael'
