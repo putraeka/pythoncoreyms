@@ -1,2 +1,2 @@
 message ="Helo world"
-print(len(message))
+print(message[0])
