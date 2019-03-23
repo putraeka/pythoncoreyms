@@ -1,2 +1,2 @@
-message ='Bobby\'s World'
-print(message)
+message ="Helo world"
+print(len(message))
