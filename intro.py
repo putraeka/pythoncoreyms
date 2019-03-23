@@ -23,3 +23,20 @@
 #message = message.replace('World','Universe')
 #print(message)
 #Hasilnya > Hello Universe
+
+#menggabungkan strings
+#greeting = 'Hello'
+#name = 'Michael'
+#message = greeting + ', ' + name
+#print(message)
+
+#fungsi format
+#greeting = 'Hello'
+#name = 'Michael'
+#message = '{}, {}. Welcome!'.format(greeting, name)
+#print(message)
+
+#fungsi fstring
+greeting = 'Hello'
+name = 'Michael'
+
