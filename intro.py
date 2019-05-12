@@ -38,4 +38,6 @@
 
 #fungsi fstring
 #greeting = 'Hello'
-#name = 'Michael'
+#name = 'Michael's
+#message = f'{greeting}, {name}. Welcome!'
+#print(message)
